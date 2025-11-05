@@ -11,7 +11,7 @@ Dry Electrodes – no gel needed
  Flexible & Adjustable Fit – optimized comfort
  High-Quality EEG Readings – reliable and precise
 
-Watch the full tutorial video here:
+Watch the full tutorial video [here](https://youtu.be/x07X1MO13d0):      
 
 [![How to start](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/youtube.png)](https://youtu.be/x07X1MO13d0)    
 
