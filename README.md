@@ -28,3 +28,4 @@ A rigid material is more difficult to adjust so the electrodes touch the skin.
 # Gallery   
 Box for Brain Computer interface [ironbci](https://pieeg.com/ironbci/)  
 
+![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_2.png "box")
