@@ -26,3 +26,5 @@ I'm sure the flexible material is very good, but you see, you need to provide su
 A rigid material is more difficult to adjust so the electrodes touch the skin.  
 
 # Gallery   
+Box for Brain Computer interface [ironbci](https://pieeg.com/ironbci/)  
+
