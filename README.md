@@ -41,6 +41,8 @@ These parts are used to cover the area with cables from electrodes to the brain-
 Headset and cover parts   
 ![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_5.png "cover")
 
+Electrode connections. On one side Electrode, on the other side, the cable and electrode clamp  
+![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_6.png "electrode")  
 
 
 
