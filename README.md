@@ -31,3 +31,12 @@ Box connected to headset via bolts.
 
 
 ![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_2.png "box")
+
+These parts are used to cover the area with cables from electrodes to the brain-computer interface 
+
+
+![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_3.png "cover")
+
+
+
+
