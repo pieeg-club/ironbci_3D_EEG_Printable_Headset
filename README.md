@@ -60,7 +60,7 @@ http://pieeg.com/
 [Youtube](https://www.youtube.com/channel/UCVF-3Bp34LINLOQsyWNpcow)
 
 #### Support
-PiEEG [Discord](https://discord.gg/JVBn9HXyRs)  
+If questions. pease join to PiEEG [Discord](https://discord.gg/JVBn9HXyRs)  
 pieeg.pieeg@com 
   
 
