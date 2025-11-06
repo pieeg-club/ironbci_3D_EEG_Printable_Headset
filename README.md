@@ -47,6 +47,20 @@ As you can see in this photo, I used flexible printing material. But I forgot to
 ![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_6.png "electrode")  
 
 
+# Generally     
+I believe the headset is ready, but some work is needed to start, cables, connect the electrodes, and attach the battery from your side. Looks like better to use a 200 mA battery, not more, to ensure there's enough room inside the headset.  
+
+
+#### Contacts   
+http://pieeg.com/  
+[LinkedIn](https://www.linkedin.com/company/96475004/admin/feed/posts/)   
+[Youtube](https://www.youtube.com/channel/UCVF-3Bp34LINLOQsyWNpcow)
+
+#### Support
+PiEEG [Discord](https://discord.gg/JVBn9HXyRs)  
+pieeg.pieeg@com 
+  
+
 
 
 
