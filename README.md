@@ -21,7 +21,7 @@ Watch the full tutorial video [here](https://youtu.be/x07X1MO13d0):
 # Assembling 
 For final assembly, you'll need bolts, washers, and nuts. Also, a belt. Details on what you need and the dimensions are in the video (above) or in the folder with the presentation.  
 
-#Materssila for 3D printer 
+# Material for 3D printer 
 TPU  or PLA
 So Flexible is good. But take into mind that during printing 
 
